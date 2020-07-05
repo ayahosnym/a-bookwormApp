@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "asmaa",
+      "email": "aya.25jan@yahoo.com",
+      "password": "asmaa123A",
+      "favBooks": [],
+      "id": 1
+    }
+  ],
+  "activeUser": [
+    {
+      "name": "aya hosny",
+      "email": "ayahosny091@gmail.com",
+      "password": "123Aya",
+      "favBooks": [],
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "مثل إيكاروس",
+      "description": " للحقيقة ثمن، وللمعرفة ثمن، وقد دفع محمود السمنودي مقابل معرفته نبذا وألما ومعاناة، منذ طفولته كطفل غريب الأطوار بين أقرانه وكرجل لا يرغب أحد فى الاقتراب منه",
+      "photoURL": "https://abjjadst.blob.core.windows.net/pub/8b0992c1-7b14-4f5a-9812-2450e7b3d90d.png",
+      "authorName": "أحمد خالد توفيق",
+      "language": " العربيه",
+      "pages": 336,
+      "publishYear": 2015
+    },
+    {
+      "id": 2,
+      "title": "رأيت رام الله",
+      "description": " سيرة ذاتيّة تحمل ذكريات المنفى المتعددة. فسرد مُريد أحداث الكتاب تارةً بمشاعر نازح وتارةً بمشاعر أسير وأُخرى بمشاعر شهيد، ونقَلَ مُريد سيرته وتجربتهُ بصيغة روائيّة حملت مُجريات الثلاثين عامًا في التنقُّلِ بين المنافي الأوروبيّة والعربيّة ",
+      "photoURL": "https://www.neelwafurat.com/images/lb/abookstore/covers/normal/11/11360.jpg",
+      "authorName": "‎مريد البرغوثى",
+      "language": " العربيه",
+      "pages": 231,
+      "publishYear": 2018
+    },
+    {
+      "id": 3,
+      "title": "شيفره بلال",
+      "description": "أن تتأثر بقصة بلال بن رباح شيء ، ولكن أن تتغير حياتك كلها بسبب ذلك شيء آخر تماما..وأن يحدث ذلك في مجتمع عربي مسلم شيء ، ولكن أن يحدث في نيويورك؟!!",
+      "photoURL": "https://66.media.tumblr.com/9037cf46d6a6dc59342729cf4034ed5a/tumblr_pt9c9thdXK1qmguwmo1_1280.jpg",
+      "authorName": "‎أحمد خيرى العمرى",
+      "language": " العربيه",
+      "pages": 386,
+      "publishYear": 2016
+    }
+  ]
+}

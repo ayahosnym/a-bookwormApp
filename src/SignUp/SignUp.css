@@ -1,0 +1,96 @@
+.register {
+  padding-top: 10%;
+  padding-bottom: 10%;
+  background: #ecf0f1;
+}
+
+.register-box {
+  width: 40%;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.register-box h2 {
+  text-align: center;
+  color: black;
+  font-size: 2.5rem;
+  font-weight: 600;
+  border-bottom: 1px solid #eee;
+  margin: 0 20px;
+}
+
+.register-box form {
+  padding: 10px 20px;
+}
+
+.register-box form p {
+  position: relative;
+  height: 45px;
+  margin: 10px 0;
+}
+
+.register-box form p input {
+  width: 100%;
+  position: absolute;
+  padding: 5px 10px 5px 27px;
+  background: #ecf0f1;
+  border: medium none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+}
+
+.register-box .error-msg {
+  font-size: 1.5rem;
+  text-align: center;
+  color: red;
+}
+
+.check-role {
+  align-items: center;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.check-role label {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.register-box form button {
+  width: 100%;
+  padding: 7px 15px;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.have-account {
+  padding: 0 0 15px;
+  margin: 0 20px;
+  text-align: center;
+}
+
+.have-account p {
+  font-size: 1.5rem;
+}
+
+.have-account a {
+  text-decoration: none;
+  font-weight: 600;
+  color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .register-box {
+    width: 60%;
+  }
+}
+
+#error-name, #error-email, #error-password, #email-exist {
+  display: none;
+}

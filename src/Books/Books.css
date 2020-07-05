@@ -1,0 +1,46 @@
+/*
+ * Books css File
+*/
+
+.Books {
+    /* propertys here */
+}
+
+figure {
+    width: 280px;
+    height: 280px;
+    text-align: center;
+    position: relative;
+}
+
+figure img {
+    object-fit: contain;
+    height: 100%;
+}
+
+figure i {
+    position: absolute;
+    display: inline-block;
+    top: 10px;
+    left: 55px;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+figcaption {
+    text-align: center;
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+figcaption p {
+    color: #a1a0a0;
+}
+
+.redHeartColor {
+    color: red;
+}
+
+.grayHeartColor {
+    color: gray;
+}

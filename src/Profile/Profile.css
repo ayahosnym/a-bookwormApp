@@ -1,0 +1,18 @@
+/*
+ * Profile css File
+*/
+
+.Profile {
+  width: 100%;
+}
+
+@media only screen and (min-width: 992px) {
+  .user-setting {
+    border-right: 1px solid #999999;
+    width: 20%;
+    padding: 0 1rem;
+  }
+  .user-fav-books {
+    width: 75%;
+  }
+}
